@@ -1,0 +1,3 @@
+<!--car.wxml-->
+<text>{{!bool?name:"你是假的"}}</text>
+<button bindtap="chooseImage">上传头像</button>
